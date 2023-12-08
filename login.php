@@ -1,4 +1,3 @@
-User
 <?php
 
 include('db.php');
